@@ -67,6 +67,13 @@
     color: #444343;
 
 }
+.previous p{
+    color: #444343;
+}
+
+.previous span{
+    color: aqua;
+}
 
 .previous-list {
     color: #444343;
